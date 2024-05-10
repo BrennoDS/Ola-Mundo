@@ -33,3 +33,8 @@ para que adicione uma sublista basta dar 3 espaços no item da lista
    1. B
 2. C
 3. D
+
+Listas demarcadas seguem as mesma regras(com asterisco ou traço)
+* Teste
+* Teste
+   * Teste
