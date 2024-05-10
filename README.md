@@ -7,3 +7,4 @@
 
 **Negrito com asterisco** ou __Negrito com underline__
 *Italico com asterisco* ou _Italico com underline_
+~~Riscado com til~~
