@@ -21,3 +21,15 @@ três asteriscos criam um linha
 ou
 ---
 três traços criam uma linha
+
+Uma lista numerada é feita com um numero seguido de um ponto(independente do numero):
+1. A
+1. B
+2. C
+3. D
+
+para que adicione uma sublista basta dar 3 espaços no item da lista
+1. A
+   1. B
+2. C
+3. D
