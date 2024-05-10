@@ -55,3 +55,7 @@ Nome | Idade | Peso
 Zé | 70 | 80
 Maria | 71 | 79
 
+Para indicar um comando usa-se a crase `comando` se for um bloco de comandos usasse 3 crases para abrir e 3 pra fechar
+
+Com o : da para usar emojis, nos repositorios do usuario ikatyang é possivel ver os codigos dos emojis
+
